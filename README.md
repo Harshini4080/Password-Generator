@@ -18,36 +18,6 @@ A simple, responsive, and customizable **password generator** built using HTML, 
 
 ---
 
-## Preview
-
-![Password Generator Screenshot](./screenshot.png)
-
-> ⚠️ Replace `screenshot.png` with your actual screenshot image file in the project root.
-
----
-
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. # 🔐 Password Generator
-
-A simple, responsive, and customizable **password generator** built using HTML, CSS, and JavaScript. It allows users to create secure passwords with options for lowercase, uppercase, numbers, and symbols.
-
----
-
-## 🌟 Features
-
-- Generate random, secure passwords
-- Customize password length
-- Include/exclude:
-  - ✅ Lowercase letters
-  - ✅ Uppercase letters
-  - ✅ Numbers
-  - ✅ Symbols
-- One-click copy to clipboard
-- Clean and user-friendly UI with pastel color theme (Minty Fresh)
-
----
 
 ## 📸 Screenshot
 
